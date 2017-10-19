@@ -17,10 +17,10 @@ const styles = {
 		borderRadius: 2,
 		borderColor: '#ddd',
 		borderBottomWidth: 0,
-		shadowColor: '#000',
-		shadowOffset: { width: 0, height: 2},
-		shadowOpacity: 0.1,
-		shadowRadius: 2,
+		shadowColor: '#000',						//iOS
+		shadowOffset: { width: 0, height: 2},		//iOS
+		shadowOpacity: 0.1,							//iOS
+		shadowRadius: 2,							//iOS
 		elevation: 2,
 		marginLeft: 5,
 		marginRight: 5,
